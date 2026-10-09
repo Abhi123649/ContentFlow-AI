@@ -7,3 +7,6 @@ __pycache__/
 recordings/
 content_stats.json
 approved_posts/
+
+.env
+.streamlit/secrets.toml
