@@ -1,4 +1,6 @@
+
 streamlit
 python-dotenv
 openai-whisper
 crewai
+faster-whisper
