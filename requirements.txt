@@ -4,3 +4,4 @@ openai-whisper
 crewai
 faster-whisper
 opencv-python-headless
+sounddevice
